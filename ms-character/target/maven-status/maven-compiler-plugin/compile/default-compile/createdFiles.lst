@@ -1,0 +1,10 @@
+com\microservices\character\CharacterRequest.class
+com\microservices\character\Character$CharacterBuilder.class
+com\microservices\character\Character.class
+com\microservices\character\CharacterRepository.class
+com\microservices\character\CharacterService.class
+com\microservices\character\AnimeDTO$AnimeDTOBuilder.class
+com\microservices\character\RestTemplateConfig.class
+com\microservices\character\AnimeDTO.class
+com\microservices\character\characterController.class
+com\microservices\character\characterApplication.class

@@ -1,0 +1,9 @@
+com\microservices\anime\AnimeRequest.class
+com\microservices\anime\Anime$AnimeBuilder.class
+com\microservices\anime\Anime.class
+com\microservices\anime\AnimeApplication.class
+com\microservices\anime\AnimeSrvice.class
+com\microservices\anime\FeignConfig.class
+com\microservices\anime\AnimeController.class
+com\microservices\anime\AnimeRepository.class
+com\microservices\anime\CharacterFeignClient.class
