@@ -9,10 +9,10 @@ import java.util.List;
 @Slf4j
 @RestController
 @RequestMapping("/api/v1/character")
-public class characterController {
-    @Autowired
-    private CharacterRepository characterRepository;
-    private CharacterService characterService;
+public record characterController (CharacterRepository characterRepository,CharacterService characterService) {
+//    @Autowired
+//    private CharacterRepository characterRepository;
+//    private CharacterService characterService;
     @PostMapping
     public void saveCharacter(@RequestBody CharacterRequest characterRequest){
         log.info("Saving character request");

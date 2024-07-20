@@ -13,6 +13,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ms-Anime" />
         <module name="eureka-server" />
+        <module name="config" />
         <module name="ms-character" />
         <module name="gateway" />
       </profile>

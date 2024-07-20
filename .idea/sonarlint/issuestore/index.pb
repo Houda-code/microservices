@@ -57,3 +57,9 @@ b
 gateway/pom.xml,4\b\4b316bc60d1cfae51045f6fc8e58a8ae31f03ff3
 w
 Ggateway/src/main/java/com/microservices/gateway/GatewayApplication.java,0\8\08a7365abe96731e089eb8b0912ab6277b0a0766
+>
+config/pom.xml,3\5\35eac4e5ad87739c066f6254b29e08708c038f22
+g
+7eureka-server/src/main/resources/application.properties,9\c\9c92add74efe64a1b2a09684bdf3d990bb4a34c7
+`
+0gateway/src/main/resources/appliction.properties,f\4\f420c868e327378279b6f72835fb5a43ccba0933

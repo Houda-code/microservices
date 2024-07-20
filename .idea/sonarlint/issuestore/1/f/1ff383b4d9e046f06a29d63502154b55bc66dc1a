@@ -1,4 +1,3 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(†œ¨Äúÿÿÿÿ8ƒŠ­Œ2J$5aca8397-d203-47b3-8061-81d62f64ecbb
-…
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‘³¥íŒ2J$49868171-2364-4566-91b1-7bc8a1641608
+•	java:S101"NRename this record name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(•¨õñøÿÿÿÿ8¸Ÿ©ïŒ2J$e28f62cb-ee49-4aad-97e7-e721faf45b61
+]	java:S125"<This block of commented-out lines of code should be removed.(ş’åÄıÿÿÿÿ8³Ñ©ïŒ2

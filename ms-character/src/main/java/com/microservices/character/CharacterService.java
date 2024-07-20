@@ -8,11 +8,11 @@ import java.util.List;
 import java.util.Optional;
 
 @Service
-public class CharacterService {
-    @Autowired
-    private CharacterRepository characterRepository;
-    @Autowired
-    private RestTemplate restTemplate;
+public record CharacterService( CharacterRepository characterRepository,RestTemplate restTemplate) {
+//    @Autowired
+//    private CharacterRepository characterRepository;
+//    @Autowired
+//    private RestTemplate restTemplate;
     public void saveCharacter(CharacterRequest request) {
         Character character =Character.builder()
                 .name(request.name())
